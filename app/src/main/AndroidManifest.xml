@@ -24,7 +24,7 @@
         tools:ignore="AllowBackup,GoogleAppIndexingWarning"
         tools:replace="android:icon">
 
-        <!--Facebook sdk-->
+        <!--Facebook SDK-->
         <meta-data android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id"/>
 
